@@ -30,8 +30,8 @@ An aspiring Data Scientist and Machine Learning Specialist currently pursuing a 
 ### 📈 GitHub Telemetry & Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kautsarhilmi-oss&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Kautsar's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kautsarhilmi-oss&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=kautsarhilmi-oss&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Kautsar's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kautsarhilmi-oss&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
 
 ---
